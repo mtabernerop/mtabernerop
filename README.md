@@ -13,7 +13,7 @@
 class ComputerScienceEngineer:
 
     def __init__(self):
-        self.name = "Miguel Tabernero"
+        ![#f03c15]self.name = "Miguel Tabernero"
         self.role = "Computer Science Engineer"
         self.status = "student"
         self.university = "Carlos III (Madrid, Spain)"
