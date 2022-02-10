@@ -1,5 +1,5 @@
 # Miguel Tabernero Palomar
-## 🖥️ Computer Science Engineer
+## 🖥️ Undergraduate Computer Science Engineer
 
 ```python
 #!/usr/bin/python
