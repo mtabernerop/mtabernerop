@@ -1,5 +1,5 @@
 # Miguel Tabernero
-## 🖥️ Computer Science Egineering
+## 🖥️ Computer Science Egineer
 
 ```python
 #!/usr/bin/python
