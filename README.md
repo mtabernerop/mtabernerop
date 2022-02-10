@@ -1,4 +1,4 @@
-# Miguel Tabernero
+# Miguel Tabernero Palomar
 ## 🖥️ Computer Science Engineer
 
 ```python
@@ -9,7 +9,7 @@
 class ComputerScienceEngineer:
 
     def __init__(self):
-        self.name = "Miguel Tabernero"
+        self.name = "Miguel Tabernero Palomar"
         self.role = "Computer Science Engineer"
         self.status = "student"
         self.university = "Carlos III (Madrid, Spain)"
