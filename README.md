@@ -25,7 +25,7 @@ me.say_hi()
 
 I really enjoy learning about the major sub-fields of Artificial Intelligence including Machine Learning, Planning, Neural Networks and Evolutionary Computation. I also enjoy website development and overall, computer programming.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabernerop)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📌 Skills and Experience
 * 🐍 Python
@@ -33,6 +33,8 @@ I really enjoy learning about the major sub-fields of Artificial Intelligence in
 * 💡 Lumen
 * 💻 PHP, HTML, CSS, JS
 * 💽 MySQL, Elasticsearch
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabernerop)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Contact
