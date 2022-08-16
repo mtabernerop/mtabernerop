@@ -11,7 +11,6 @@ class ComputerScienceEngineer:
     def __init__(self):
         self.name = "Miguel Tabernero Palomar"
         self.role = "Computer Science Engineer"
-        self.status = "student"
         self.university = "Carlos III (Madrid, Spain)"
         self.language_spoken = ["es_ES", "en_US"]
 
